@@ -1,0 +1,5 @@
+#ifndef _icon_rc
+#define _icon_rc
+
+MAINICON ICON "icon3.ico"
+#endif // _icon_rc

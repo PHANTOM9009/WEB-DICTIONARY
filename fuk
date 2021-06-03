@@ -1,0 +1,71 @@
+[33mcommit 6172bcda0b56cdc60a11e7f02ca8e5b25cf760a9[m[33m ([m[1;36mHEAD[m[33m)[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Mon May 17 17:11:19 2021 +0530
+
+    version 1.1
+
+[33mcommit 7df50b749839a8a6f10d042c2c21f074eb319c6d[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Mon May 17 00:41:01 2021 +0530
+
+    version 1.0 without deletion of the topic
+
+[33mcommit 23ae834ae0cbca349203aac33244063962d60c33[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Mon May 17 00:22:55 2021 +0530
+
+    version 0.9
+
+[33mcommit 9a08848422f0d1a78ab8dee08d7f4cb1bc04b6ba[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Sun May 16 18:54:11 2021 +0530
+
+    version 0.8
+
+[33mcommit 5eb6dc09e7fbf8cf20d79c503bf7f99d8207b18a[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Sat May 15 16:14:40 2021 +0530
+
+    version 0.7 copying stuff feature is added
+
+[33mcommit 112bd30c47186e37112b49e04dc7318953ffff67[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Fri May 14 22:29:27 2021 +0530
+
+    version 0.6
+
+[33mcommit 21185f8831c78f9b1fd448d7b0fbf94a118eec23[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Thu May 13 22:49:26 2021 +0530
+
+    version 0.5
+
+[33mcommit 375eda18436e5063281f1ec2976ef11619b1748a[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Thu May 13 18:48:42 2021 +0530
+
+    version 0.4 child window 2 made but not working yet
+
+[33mcommit ed7748d88fb5605e971ad14af8651e4c134d770d[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Wed May 12 22:31:09 2021 +0530
+
+    version 0.3 working without an edit box to enter the things to be edited
+
+[33mcommit 8abe6997c8d14ce7f144b69b69b247621307758c[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Wed May 12 18:37:54 2021 +0530
+
+    version 0.2
+
+[33mcommit 821319dfb45caa6af438c169a387b9eaec0b3e85[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Tue May 11 17:56:11 2021 +0530
+
+    version 0.1
+
+[33mcommit 0ed74d64bbc2d502b2620dd8cf51572762bbbfe7[m
+Author: anchit rana <anchitrana4@gmail.com>
+Date:   Tue May 11 01:49:52 2021 +0530
+
+    till toggling windows, the problem were 2: 1. in window1 class dont upgrade c in the while loop where topics buttons are added.... 2.objects of the class windows1 and 2 have to be formed beforehand

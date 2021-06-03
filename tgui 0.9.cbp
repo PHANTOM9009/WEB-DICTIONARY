@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="tgui 0.9" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/tgui 0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="tgui-d" />
+					<Add library="sfml-graphics-d" />
+					<Add library="sfml-audio-d" />
+					<Add library="sfml-network-d" />
+					<Add library="sfml-window-d" />
+					<Add library="sfml-system-d" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/tgui 0" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Option use_console_runner="0" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add library="tgui" />
+					<Add library="sfml-graphics" />
+					<Add library="sfml-audio" />
+					<Add library="sfml-network" />
+					<Add library="sfml-window" />
+					<Add library="sfml-system" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-std=c++14" />
+			<Add directory="C:/TGUI/TGUI-0.9/include" />
+			<Add directory="C:/sfml/SFML-2.5.1/include" />
+		</Compiler>
+		<Linker>
+			<Add directory="C:/TGUI/TGUI-0.9/lib" />
+			<Add directory="C:/sfml/SFML-2.5.1/lib" />
+		</Linker>
+		<Unit filename="C:/TGUI/TGUI-0.9/bin/tgui-d.dll" />
+		<Unit filename="C:/TGUI/TGUI-0.9/bin/tgui.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/openal32.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-audio-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-audio-d-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-graphics-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-graphics-d-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-network-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-network-d-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-system-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-system-d-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-window-2.dll" />
+		<Unit filename="C:/sfml/SFML-2.5.1/bin/sfml-window-d-2.dll" />
+		<Unit filename="ha.cpp" />
+		<Unit filename="icon.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
+		<Unit filename="web_dictionary.cpp" />
+		<Extensions>
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
