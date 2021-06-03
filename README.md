@@ -13,6 +13,10 @@ HOW TO USE?
 3. search any link you want to just by entering something about the link you remember.
 
 4. right click on any topic to edit its name.
+5. steps to download:
+5.1. just download the above given zip file.
+5.2. unzip it, and click on the web dictionary application.
+6. enjoy the software!
 
 ENJOY USING THE SOFTWARE
 ----------CREATED BY ANCHIT RANA----------------
