@@ -1,5 +1,5 @@
 # WEB-DICTIONARY
-An easy to use personal web links manager for windows. Organizing your web links had never been easier, the most simplest way is here.
+Tired of using complex managing software? and you are in need of a simple manager that works according to you?. Organizing your web links had never been easier, the most simplest way is here.
 *****************************************************************************
 WELCOME TO THE WEB DICTIONARY:
 why use it?
